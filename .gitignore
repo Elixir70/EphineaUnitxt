@@ -4,6 +4,9 @@ jp/*.prs
 *.bin
 en/*.bin
 jp/*.bin
-ItemPMT.json
-en/ItemPMT.json
-jp/ItemPMT.json
+ItemPMT*.json
+en/ItemPMT*.json
+jp/ItemPMT*.json
+backups
+release
+test
