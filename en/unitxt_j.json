@@ -3524,7 +3524,7 @@
 			"Since this individual is already at Common Class, they cannot be demoted further.",
 			"Demotion failed.",
 			"Who do you want to dismiss?",
-			"Is %s is dismissed, they will no longer be able to access any team functions?\nIs this okay/",
+			"If %s is dismissed, they will no longer be able to access any team functions?\nIs this okay?",
 			"%s was dismissed from the Team.",
 			"Dismissal failed.",
 			"Who do you want to transfer authority to?",
