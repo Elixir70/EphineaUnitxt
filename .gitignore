@@ -1,3 +1,9 @@
 *.prs
 en/*.prs
 jp/*.prs
+*.bin
+en/*.bin
+jp/*.bin
+ItemPMT.json
+en/ItemPMT.json
+jp/ItemPMT.json
