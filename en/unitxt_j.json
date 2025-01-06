@@ -3804,7 +3804,9 @@
 			"\tC4Anguish 7\tC7",
 			"\tC4Anguish 8\tC7",
 			"\tC4Anguish 9\tC7",
-			"\tC4Anguish 10\tC7"
+			"\tC4Anguish 10\tC7",
+			"Drop:",
+			"Rate:"
 		],
 		[
 			"Meseta",
