@@ -4611,7 +4611,9 @@
 			"Patch download failed.",
 			"Press Enter to return to the Title Screen.",
 			"There were no updated files available.",
-			"Press Enter to return to the Title Screen."
+			"Press Enter to return to the Title Screen.",
+			"Change Slot",
+			"SLOT:"
 		],
 		[
 			"Memory Unit is not inserted.",
