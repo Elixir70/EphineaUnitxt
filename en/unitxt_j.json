@@ -4613,7 +4613,14 @@
 			"There were no updated files available.",
 			"Press Enter to return to the Title Screen.",
 			"Change Slot",
-			"SLOT:"
+			"SLOT: 01-04",
+			"SLOT: 05-08",
+			"SLOT: 09-12",
+			"SLOT: 13-16",
+			"SLOT: 17-20",
+			"SLOT: 21-24",
+			"SLOT: 25-28",
+			"SLOT: 29-32"
 		],
 		[
 			"Memory Unit is not inserted.",
